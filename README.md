@@ -1,6 +1,6 @@
 - 👋 Hi, I’m priya gupta
 - 👀 I’m interested in full stack devlopment
-- 🌱 I’m currently learning web devlopment,python
+- 🌱 I’m currently learning react,django,python.
 
 
 <!---
